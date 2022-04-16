@@ -1,5 +1,4 @@
-{
-  "information": [
+[
   {
     "A": "512060000223",
     "B": "Aided Primary Schools",
@@ -8,14 +7,6 @@
     "E": "嘉諾撒聖家學校",
     "F": "G/F 99 FUK LO TSUN ROAD KOWLOON CITY KOWLOON",
     "G": "九龍九龍城福佬村道99號地下",
-
-
-
-
-
-
-
-
     "P": "GIRLS",
     "Q": "女",
     "R": "WHOLE DAY",
@@ -27,11 +18,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "23821035",
-
     "AB": "23824406",
-
     "AD": "",
-
     "AF": "CATHOLICISM",
     "AG": "天主教"
   },
@@ -43,14 +31,6 @@
     "E": "培基小學",
     "F": "ECO-GARDEN CUM PLANT NURSERY LOK LIN PATH SHA TIN NEW TERRITORIES",
     "G": "新界沙田樂蓮徑生態花園暨植物苗圃",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -62,11 +42,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "2602 5353",
-
     "AB": "2697 3808",
-
     "AD": "",
-
     "AF": "PROTESTANTISM / CHRISTIANITY",
     "AG": "基督教"
   },
@@ -78,14 +55,6 @@
     "E": "東華三院包玉星學校",
     "F": "NO. 111 SAI YEUNG CHOI STREET SOUTH, MONGKOK, KOWLOON",
     "G": "九龍旺角西洋菜南街111號",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -97,11 +66,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "",
-
     "AB": "",
-
     "AD": "",
-
     "AF": "NOT APPLICABLE",
     "AG": "不適用"
   },
@@ -113,14 +79,6 @@
     "E": "救世軍中原慈善基金皇后山學校",
     "F": "2 LUNG CHUN ROAD, FANLING, NEW TERRITORIES (EXCLUDING THE VISUAL ARTS ROOM ON 4/F)",
     "G": "新界粉嶺龍峻道2號(4樓視藝室除外)",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -132,11 +90,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "",
-
     "AB": "",
-
     "AD": "",
-
     "AF": "PROTESTANTISM / CHRISTIANITY",
     "AG": "基督教"
   },
@@ -148,14 +103,6 @@
     "E": "聖保祿天主教小學",
     "F": "81A WONG NAI CHUNG ROAD HAPPY VALLEY HONG KONG",
     "G": "香港跑馬地黃泥涌道81A號",
-
-
-
-
-
-
-
-
     "P": "GIRLS",
     "Q": "女",
     "R": "WHOLE DAY",
@@ -167,11 +114,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "25763181",
-
     "AB": "28824530",
-
     "AD": "",
-
     "AF": "CATHOLICISM",
     "AG": "天主教"
   },
@@ -183,14 +127,6 @@
     "E": "香港九龍塘基督教中華宣道會陳元喜小學",
     "F": "ESTATE PRIMARY SCHOOL 3, MEI LAM ESTATE, SHATIN, NEW TERRITORIES",
     "G": "新界沙田美林邨第三小學",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -202,11 +138,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "26998030",
-
     "AB": "26031446",
-
     "AD": "",
-
     "AF": "PROTESTANTISM / CHRISTIANITY",
     "AG": "基督教"
   },
@@ -218,14 +151,6 @@
     "E": "長沙灣天主教小學",
     "F": "7 TONKIN STREET, CHEUNG SHA WAN, KOWLOON",
     "G": "九龍長沙灣東京街7號",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -237,11 +162,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "27761423",
-
     "AB": "27766201",
-
     "AD": "",
-
     "AF": "CATHOLICISM",
     "AG": "天主教"
   },
@@ -253,14 +175,6 @@
     "E": "東華三院曾憲備小學",
     "F": "53 LUNG MA ROAD, FANLING, NEW TERRITORIES",
     "G": "新界粉嶺龍馬路53號",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -272,11 +186,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "N.A.",
-
     "AB": "N.A.",
-
     "AD": "N.A.",
-
     "AF": "N.A.",
     "AG": "N.A."
   },
@@ -288,14 +199,6 @@
     "E": "柏立基教育學院校友會盧光輝紀念學校",
     "F": "221 KWAI SHING CIRCUIT KWAI CHUNG NEW TERRITORIES",
     "G": "新界葵涌葵盛圍221號",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -307,11 +210,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "24290452",
-
     "AB": "24801757",
-
     "AD": "http://www.lynms.edu.hk",
-
     "AF": "NOT APPLICABLE",
     "AG": "不適用"
   },
@@ -323,14 +223,6 @@
     "E": "通德學校",
     "F": "SHING MUN SAN TSUEN, KAM TIN, YUEN LONG, NEW TERRITORIES",
     "G": "新界元朗錦田城門新村",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -342,11 +234,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "24761101",
-
     "AB": "24747045",
-
     "AD": "http://www.ttsch.edu.hk",
-
     "AF": "NOT APPLICABLE",
     "AG": "不適用"
   },
@@ -358,14 +247,6 @@
     "E": "圓玄學院陳國超興德小學",
     "F": "HING PING ROAD TUEN MUN NEW TERRITORIES",
     "G": "新界屯門慶平路",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -377,11 +258,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "24482211",
-
     "AB": "24483098",
-
     "AD": "http://www.hingtak.edu.hk",
-
     "AF": "NOT APPLICABLE",
     "AG": "不適用"
   },
@@ -393,14 +271,6 @@
     "E": "東華三院蔡榮星小學",
     "F": "ESTATE PRIMARY SCHOOL NO.1, MEI LAM ESTATE, SHATIN, NEW TERRITORIES",
     "G": "新界沙田美林邨屋邨小學第1校舍",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -412,11 +282,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "29593606",
-
     "AB": "29593615",
-
     "AD": "http://www.twghscops.edu.hk",
-
     "AF": "NOT APPLICABLE",
     "AG": "不適用"
   },
@@ -428,14 +295,6 @@
     "E": "香港教育大學賽馬會小學",
     "F": "10 LO PING ROAD, THE EDUCATION UNIVERSITY OF HONG KONG, TAI PO, NEW TERRITORIES",
     "G": "新界大埔露屏路10號香港教育大學",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -447,11 +306,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "29481122",
-
     "AB": "29481121",
-
     "AD": "http://www.edujcps.edu.hk",
-
     "AF": "NOT APPLICABLE",
     "AG": "不適用"
   },
@@ -463,14 +319,6 @@
     "E": "寶覺小學",
     "F": "G/F. - 5/F., 9 SHAN KWONG ROAD & 11 SHAN KWONG ROAD, HAPPY VALLEY, HONG KONG",
     "G": "香港跑馬地山光道9號地下至5樓及山光道11號",
-
-
-
-
-
-
-
-
     "P": "CO-ED",
     "Q": "男女",
     "R": "WHOLE DAY",
@@ -482,11 +330,8 @@
     "X": "PRIMARY",
     "Y": "小學",
     "Z": "25737911",
-
     "AB": "25724364",
-
     "AD": "http://www.pokokps.edu.hk",
-
     "AF": "BUDDHISM",
     "AG": "佛教"
   },
@@ -127280,6 +127125,5 @@
     "AD": "http://www.hebron.edu.hk",
     "AF": "NOT APPLICABLE",
     "AG": "不適用"
-    }
-  ]
-}
+  }
+]
